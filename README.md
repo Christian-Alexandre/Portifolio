@@ -42,6 +42,8 @@ Permite **criar, editar, atualizar e excluir** itens do catálogo.
 O portfólio está disponível online:  
 👉 https://portfolio-christian-sandy.vercel.app/
 
+---
+
 ## 🔗📬 Contato
 
 📧 Email: chris.alexandre@outlook.com.br

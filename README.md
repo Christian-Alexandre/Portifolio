@@ -25,19 +25,6 @@ Nele você encontrará:
 
 ---
 
-## 📂 Estrutura de Pastas
-
-/
-├── index.html
-├── style.css
-├── img/
-│ ├── Christian.png
-│ ├── Mr-robot.png
-│ └── Crude-CatalogoProdutos.png
-└── README.md
-
----
-
 ## 📸 Projetos em Destaque
 
 ### 🎬 Mr. Robot Fan Page
